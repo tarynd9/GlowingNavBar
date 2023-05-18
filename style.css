@@ -10,10 +10,6 @@
   /* 
   -- Why the @layer ?
      I misuse the @layer for a good reason. 
-     Since I do a lot of demo featuring #houdini
-     I like to store my @property --foo {} within
-     A @layer so that the viewer can simply fold the layer 
-     And access to the interesting part of the CSS panel.
   */ 
   
   @layer properties {
